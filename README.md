@@ -1,4 +1,4 @@
-#README
+# README
 
 ## Introduction to the project
 The construction industry is notorious for low-efficiency and corruption. Besides obvious reasons like complexity of large institutions, numerous involving parties and complexity of large contracts, there are two characteristics that make this industry hard to mitigate: One is that the uniqueness of construction projects that no two construction projects are the same makes it difficult to compare two projects and set benchmarks for expenses. Another one is that construction projects often have complex transaction chains, which make it hard to detect inflated costs and of course to regulate the wrongdoing. The condition calls for powerful tools to be introduced to mitigate the loss.
